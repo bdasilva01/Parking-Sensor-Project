@@ -23,7 +23,7 @@ The Parking Sensor Project involves the development of a system designed to assi
 Once ESP32is powered on, put your hand 20-30cm away from sensor to show green, 10-20cm to show yellow and less than 10cm to show red and sound off the buzzer!
 
 ### Photo of Project
-
+!
 ### Schematic
 
 ### Code
